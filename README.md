@@ -1,6 +1,6 @@
-# CODSOFT
 
-Welcome to the CodSoft repository! This repository contains the code for my web development internship projects. The projects are organized into three main tasks, each stored in its own folder.
+Welcome to the CodSoft repository! This repository contains the code for my web development internship projects.
+The projects are organized into three main tasks, each stored in its own folder.
 
 Folder Structure : 
 Task 1: Portfolio Design
