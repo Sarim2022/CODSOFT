@@ -1,2 +1,2 @@
 # CODSOFT
-Codsoft internship project code 
+Codsoft Web development internship project code 
